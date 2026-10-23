@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  AITracer is an open-source observability platform for LLM applications — one place to understand every call, control your prompts, and ship with confidence.
+  AITracer is an observability platform for LLM applications — one place to understand every call, control your prompts, and ship with confidence.
 </p>
 
 ---
 
 ## What is AITracer?
 
-AITracer is an open-source AI engineering and LLM operations (LLMOps) platform, built for engineering teams that need to **build, monitor, evaluate, and debug LLM applications and autonomous AI agents**.
+AITracer is an AI engineering and LLM operations (LLMOps) platform, built for engineering teams that need to **build, monitor, evaluate, and debug LLM applications and autonomous AI agents**.
 
 Traditional monitoring tools assume small, predictable code paths. LLM applications are different: they are non-deterministic, cost money per token, run slowly, and process huge multi-modal inputs. AITracer captures hierarchical traces of every step — user input, prompt templates, vector/RAG lookups, LLM calls, and tool executions — so you can see the exact timelines, token counts, and costs behind every response.
 
