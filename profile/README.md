@@ -44,3 +44,9 @@ From your first LLM integration to production-scale autonomous agents, AITracer 
   ·
   <a href="https://aitracer.app/docs"><strong>Documentation</strong></a>
 </p>
+
+## Copyright and commercial distribution
+
+© 2026 Hira Barton. All rights reserved. AITracer is owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC.
+
+[Application ownership and commercial distribution notice](https://github.com/aitracer-app/.github/blob/main/APPLICATION-LICENSE.txt)
