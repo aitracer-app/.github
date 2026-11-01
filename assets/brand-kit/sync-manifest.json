@@ -1,0 +1,510 @@
+{
+  "source_repository": "NoirStackLLC/brand-kit",
+  "source_ref": "a667b4c59ec9c26a17ae88f8fbbd72f2252e5c2c",
+  "assets": [
+    {
+      "source_path": "aitracer/AI Tracer Light Theme Marketing Grid-1.png",
+      "sha": "766eb13c666b083b18eb9f4146717decf2ca1eca",
+      "bytes": 1683040,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/AI Tracer Observability Brand Asset Grid.png",
+      "sha": "32380606a886c05bc717a990c52519fa31f7c665",
+      "bytes": 1618137,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/AI Tracer Observability Brand Collage-2.png",
+      "sha": "8a0580ac4d070fbd4f973968991d9e10f09d619e",
+      "bytes": 2039964,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/AI Tracer Observability Dashboard.png",
+      "sha": "3ebe2e301d6445bb00bc58d7ba8296b5a5b14d23",
+      "bytes": 1525243,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/AI Tracer_ Observe, Understand, Improve.png",
+      "sha": "56a9f23ec5d477c46000309b138aa97be58cb61c",
+      "bytes": 1588101,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/android/android-144.png",
+      "sha": "a507fecc7d563914eb3b6dfadf6b7e6438435e1d",
+      "bytes": 2321,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/android/android-192.png",
+      "sha": "fa2f8e6fe9d861202c334b3546c17f7e9274ace5",
+      "bytes": 3493,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/android/android-48.png",
+      "sha": "03806fa9a520c9745de93827f9461fcb94305651",
+      "bytes": 548,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/android/android-512.png",
+      "sha": "7f8351cf61b053830007bb0683e48aa67e8dc351",
+      "bytes": 16389,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/android/android-72.png",
+      "sha": "ef1102ca70a1d4e585239995a1c541d73c4bd33a",
+      "bytes": 936,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/android/android-96.png",
+      "sha": "feb29683551ee9ef8d1360b23ecd898c017ec6c5",
+      "bytes": 1343,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/branding/aitracer-wordmark.png",
+      "sha": "c6a7cf36baeeedaf30641a4fab86ed610865ecfb",
+      "bytes": 55853,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/branding/logo-transparent.png",
+      "sha": "c3735cb817cbe5a4478ec372150cf8a8ac5a8c39",
+      "bytes": 346738,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/chrome/icon-128.png",
+      "sha": "4cacac24ffc55e2e950ce31e46f163c1b1103c1f",
+      "bytes": 1975,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/chrome/icon-16.png",
+      "sha": "c88ed9c4f89dc2df07f6398597774fd9ef7dc9b0",
+      "bytes": 241,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/chrome/icon-24.png",
+      "sha": "791848433b69219fe25461c2c299b7329d9d8815",
+      "bytes": 308,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/chrome/icon-32.png",
+      "sha": "37b2d44cf925251f58c49a2919e83221881e7b0a",
+      "bytes": 381,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/chrome/icon-48.png",
+      "sha": "03806fa9a520c9745de93827f9461fcb94305651",
+      "bytes": 548,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/favicon/favicon-16x16.png",
+      "sha": "c88ed9c4f89dc2df07f6398597774fd9ef7dc9b0",
+      "bytes": 241,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/favicon/favicon-32x32.png",
+      "sha": "37b2d44cf925251f58c49a2919e83221881e7b0a",
+      "bytes": 381,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/favicon/favicon-48x48.png",
+      "sha": "03806fa9a520c9745de93827f9461fcb94305651",
+      "bytes": 548,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/favicon/favicon.ico",
+      "sha": "c6574625054a705764950a769703c4def81807dc",
+      "bytes": 766,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/ios/apple-icon-1024.png",
+      "sha": "a03600bd7b2072861f31d88a1463ee284a9a7451",
+      "bytes": 55349,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/ios/apple-icon-120.png",
+      "sha": "b76b4262111af19e0ee32ab7cfc202092800df38",
+      "bytes": 1816,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/ios/apple-icon-152.png",
+      "sha": "5c186978505ead649c905dc94d7bb823e3e22a18",
+      "bytes": 2501,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/ios/apple-icon-167.png",
+      "sha": "02828f8f0a3811d1d065a5f0bc6f35b69e73c67d",
+      "bytes": 2877,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/ios/apple-icon-180.png",
+      "sha": "2f08070f7380f033abd5e3a226cce0a57798013e",
+      "bytes": 3151,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/macos/icon-1024.png",
+      "sha": "a03600bd7b2072861f31d88a1463ee284a9a7451",
+      "bytes": 55349,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/macos/icon-128.png",
+      "sha": "4cacac24ffc55e2e950ce31e46f163c1b1103c1f",
+      "bytes": 1975,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/macos/icon-16.png",
+      "sha": "c88ed9c4f89dc2df07f6398597774fd9ef7dc9b0",
+      "bytes": 241,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/macos/icon-256.png",
+      "sha": "f779007ceccf8dc2206b3a9b2e5c773577fb81bb",
+      "bytes": 5314,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/macos/icon-32.png",
+      "sha": "37b2d44cf925251f58c49a2919e83221881e7b0a",
+      "bytes": 381,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/macos/icon-512.png",
+      "sha": "7f8351cf61b053830007bb0683e48aa67e8dc351",
+      "bytes": 16389,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/macos/icon-64.png",
+      "sha": "1024f44d9bb09362ef1e111e53fb43a7d44f4f83",
+      "bytes": 813,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/pwa/apple-touch-icon.png",
+      "sha": "2f08070f7380f033abd5e3a226cce0a57798013e",
+      "bytes": 3151,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/pwa/icon-192.png",
+      "sha": "fa2f8e6fe9d861202c334b3546c17f7e9274ace5",
+      "bytes": 3493,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/pwa/icon-512.png",
+      "sha": "7f8351cf61b053830007bb0683e48aa67e8dc351",
+      "bytes": 16389,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/pwa/icon-maskable-192.png",
+      "sha": "dec854db0f7772572c3dda58988951891a05b762",
+      "bytes": 2948,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/pwa/icon-maskable-512.png",
+      "sha": "3a44ce7a06fa4fa5072d47c6d186e5f4ba15ab06",
+      "bytes": 12648,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/social/og-image-1200x630.png",
+      "sha": "657644d43026fd0980b7931398ecf60a6f64464c",
+      "bytes": 86537,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/social/twitter-card-1200x600.png",
+      "sha": "750bfb19b78dd2ebe152f3d2b2a58b75e0fb4e30",
+      "bytes": 80500,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/windows/tile-150.png",
+      "sha": "f53a3c29abc894e2fec0c0baab508c03d6e3ee81",
+      "bytes": 2441,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/windows/tile-310.png",
+      "sha": "0a785e4106df1969396bf78f918e28062f0e68d1",
+      "bytes": 7057,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-generated-icons/windows/tile-71.png",
+      "sha": "719217159ed04175c06bdda7eb0630ebff3968e2",
+      "bytes": 945,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer-text-logo.png",
+      "sha": "21a8e4ba83b0fbe1428600410be7f15b91335169",
+      "bytes": 383166,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards.zip",
+      "sha": "79eae4f1375018bcab1a5471f23f169026362910",
+      "bytes": 1845399,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/app_icon.png",
+      "sha": "4f41eca42c6466ebe655f52518f001e6463f5380",
+      "bytes": 84188,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/brand_tagline.png",
+      "sha": "442a55d14d6affe356a7b28fd81c073ee8cd96f1",
+      "bytes": 102025,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/build_better_ai.png",
+      "sha": "2cfcf2f320217d82fb65dbb552d84a02b86c0547",
+      "bytes": 147790,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/experimentation_to_production.png",
+      "sha": "2061de469ed88cbe673ec93bd9ac24a52491b00a",
+      "bytes": 129932,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/full_visibility.png",
+      "sha": "433567b1f5e7fb9247c8445cc773518c3cce774e",
+      "bytes": 128389,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/hero_observe.png",
+      "sha": "7eecf15510961a6722e792c151dac58e96ee4a8b",
+      "bytes": 413329,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/insights.png",
+      "sha": "5549cf772bcbd588b76b4396e3a53d9de09b6eb6",
+      "bytes": 146541,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/logo_vertical.png",
+      "sha": "8749f3566eb491edce97cb38302f431f681b4a6e",
+      "bytes": 95568,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/observability_dashboard.png",
+      "sha": "79886f9e1b7aecd260a0e1948384cc837f6f7f64",
+      "bytes": 211852,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/open_source.png",
+      "sha": "0dd17b13034ed2b3f79701ad541e969591a7bdd4",
+      "bytes": 133487,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_light_social_cards/prompt_to_production.png",
+      "sha": "2c294fcdd1fd403dd162105b0d25599bc8fe829a",
+      "bytes": 250436,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards.zip",
+      "sha": "9a1ad0c3693a20491a0b36e7f441fad0c7f1807f",
+      "bytes": 1236714,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/build_better.png",
+      "sha": "b76b586936fe40e159cb247abc62773fb45baed2",
+      "bytes": 93531,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/hero.png",
+      "sha": "1f03b1bfbcf8613340436f41da62d9f9ac5976ca",
+      "bytes": 504775,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/inside_ai.png",
+      "sha": "7a03656458960588de2e79e056254e0d8639c1b3",
+      "bytes": 93106,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/logo_horizontal.png",
+      "sha": "eba29f5f2b1c506a87dfe7c81c9e25859e5222a4",
+      "bytes": 61192,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/logo_square.png",
+      "sha": "64905f4588c5b554d0b9079213696ee2d22a0e61",
+      "bytes": 48639,
+      "copied": true
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/open_observability.png",
+      "sha": "1572f611eb1f59d3d71e8b92d0b404f0c9d7a7d6",
+      "bytes": 70039,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/open_source.png",
+      "sha": "e6b48d1f3dc00780b43c2fcb80baf541381fe082",
+      "bytes": 173497,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_cards/prompts_to_production.png",
+      "sha": "5d9fe620fc5096c520f9f0ab4474caf5d1cbc182",
+      "bytes": 190687,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2.zip",
+      "sha": "4a413751fea4cbf59ec504274358da7f260bbcaf",
+      "bytes": 1416428,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/app_icon.png",
+      "sha": "d53253aedfd1b809d790023e117c8294a5250fab",
+      "bytes": 43998,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/feature_list.png",
+      "sha": "93c8d49e79069b742707baeb4c79908f2308a6b2",
+      "bytes": 65256,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/full_visibility.png",
+      "sha": "5b30c3ff676cb6c98d3de85f897221623e3da43c",
+      "bytes": 131533,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/hero_observe.png",
+      "sha": "9eb4dc53d83ab1e34378dc61edfc9a7bbeb7628a",
+      "bytes": 345365,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/inside_ai.png",
+      "sha": "a7ca476bb41fc7b55331e5e65878460b7c6e19ef",
+      "bytes": 116701,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/insights.png",
+      "sha": "27df81b9c2acb8a0ebe4240da23c14974f58dc69",
+      "bytes": 65357,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/logo_icon_dark.png",
+      "sha": "d98dfa6198ee93acb952bbc5b320afff39b52763",
+      "bytes": 35451,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/logo_landscape.png",
+      "sha": "8658f5da3d58d0e28258135e23ee8893356b1244",
+      "bytes": 116426,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/logo_light.png",
+      "sha": "ad56c0927a95e9a2ebad93865e5edae250e86182",
+      "bytes": 47841,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/logo_square.png",
+      "sha": "e9bb3fccb6b38d9a3783340042ce182611e8854b",
+      "bytes": 73587,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/open_source.png",
+      "sha": "58dd4ce0fd6ffe83485f8cea31072f63ad09ccff",
+      "bytes": 86093,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/production.png",
+      "sha": "1ec4b1ca4a04c75765817273c417418356e319c3",
+      "bytes": 78247,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/trace_dashboard.png",
+      "sha": "f1cf628ad480935d68bc5489cc011ecc5abc97b9",
+      "bytes": 107533,
+      "copied": false
+    },
+    {
+      "source_path": "aitracer/aitracer_social_pack_2/trace_everything.png",
+      "sha": "9ad15d35a4dd6f3c93f360441ef1f4899909a325",
+      "bytes": 101117,
+      "copied": false
+    },
+    {
+      "source_path": "brands/aitracer/originals/aitracer-text-logo.png",
+      "sha": "21a8e4ba83b0fbe1428600410be7f15b91335169",
+      "bytes": 383166,
+      "copied": false
+    },
+    {
+      "source_path": "brands/aitracer/originals/logo-transparent-black.png",
+      "sha": "daf69a2aac4110e2bbacd0b7835804d80c9cb4ac",
+      "bytes": 220556,
+      "copied": false
+    },
+    {
+      "source_path": "brands/aitracer/originals/logo-transparent.png",
+      "sha": "c3735cb817cbe5a4478ec372150cf8a8ac5a8c39",
+      "bytes": 346738,
+      "copied": false
+    }
+  ]
+}

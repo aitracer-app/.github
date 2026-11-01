@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.png" alt="AITracer" width="100%" />
+  <img src="https://raw.githubusercontent.com/aitracer-app/.github/main/profile/hero.png" alt="AITracer" width="100%" />
 </p>
 
 <h1 align="center">AITracer</h1>
@@ -44,6 +44,14 @@ From your first LLM integration to production-scale autonomous agents, AITracer 
   ·
   <a href="https://aitracer.app/docs"><strong>Documentation</strong></a>
 </p>
+
+## AITracer artwork
+
+![hero](https://raw.githubusercontent.com/aitracer-app/.github/main/assets/brand-kit/aitracer/aitracer_social_cards/hero.png)
+
+![logo square](https://raw.githubusercontent.com/aitracer-app/.github/main/assets/brand-kit/aitracer/aitracer_social_cards/logo_square.png)
+
+[Browse brand assets](https://github.com/aitracer-app/.github/blob/main/assets/brand-kit/README.md)
 
 ## Copyright and commercial distribution
 
